@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://dailymockup.tech"
-title = "Design Mockups"
+baseURL = "https://designmockup.studio"
+title = "Design Best Ideas"
 theme = "jala"
 languageName = "En"
 languageCode = "en-us"
@@ -68,7 +68,7 @@ weight = 5
 [params]
 logo = ""
 # Meta data
-description = "dailymockup.tech is Free Mockups web reference"
+description = "designmockup.studio is Free Best web reference"
 author = ""
 
 # search  
@@ -76,7 +76,7 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Copyright 2022 [dailymockup.tech](https://dailymockup.tech)" 
+copyright = "Copyright 2022 [designmockup.studio](https://designmockup.studio)" 
 
 # Preloader
 [params.preloader]
