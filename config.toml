@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://designmockup.studio"
+baseURL = "https://jalla.designmockup.studio"
 title = "Design Best Ideas"
 theme = "jala"
 languageName = "En"
@@ -76,7 +76,7 @@ search = true
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Copyright 2022 [designmockup.studio](https://designmockup.studio)" 
+copyright = "Copyright 2022 [jalla.designmockup.studio](https://jalla.designmockup.studio)" 
 
 # Preloader
 [params.preloader]
